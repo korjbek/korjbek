@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @korjbek
 - 👀 I’m interested in you.
 - 🌱 I’m currently learning about the world.
-- 💞️ I’m looking to collaborate on everyone on the planet.
+- 💞️ I’m looking to collaborate with everyone on the planet.
 - 📫 You can't reach me at this moment.
 
 <!---
